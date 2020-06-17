@@ -39,7 +39,7 @@ void loop() {
 
 }
 
-//Put the brightness[i] element in set pixel into the color spot 
+//Put the brightness(i) element in set pixel into the color spot 
 //  (replace 200) and set the brightness instead to 100.
 
 // (c) 2017 Let's Start Coding. License: www.letsstartcoding.com/bsdlicense
